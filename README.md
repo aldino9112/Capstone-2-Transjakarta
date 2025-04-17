@@ -14,47 +14,48 @@ Transjakarta aims to reduce the use of private vehicles among underage students 
 
 # Stakeholder
 Transjakarta Public Relations Team:
-	•	Responsible for external communications.
-	•	Develops the core messages of the campaign (e.g., safety, comfort, legality).
+Responsible for external communications.
+Develops the core messages of the campaign (e.g., safety, comfort, legality).
 Transjakarta Social Media Team:
-	•	Transforms insights into engaging content for platforms such as TikTok, Instagram, Twitter, etc.
-	•	Collaborates with designers and content creators.
+Transforms insights into engaging content for platforms such as TikTok, Instagram, Twitter, etc.
+Collaborates with designers and content creators.
 Digital Marketing Team:
-	•	Handles marketing collaborations with external parties to increase youth interest in using TransJakarta.
+Handles marketing collaborations with external parties to increase youth interest in using TransJakarta.
 
 # Data Understanding
 The dataset consists of 37,900 rows and 22 columns. The dataset contains multiple attributes grouped into the following categories:
-	Transaction Information :
-	•	transID: Unique transaction id for every transaction  
-	•	payAmount: The number of what customers pay. Some are free. Some not.
 
-	Customer Information :
-	•	payCardID: Customers main identifier. The card customers use as a ticket for entrance and exit.  
-	•	payCardBank: Customers card bank issuer name  
-	•	payCardName: Customers name that is embedded in the card.  
-	•	payCardSex: Customers sex that is embedded in the card  
-	•	payCardBirthDate: Customers birth year
+Transaction Information :
+	transID: Unique transaction id for every transaction  
+	payAmount: The number of what customers pay. Some are free. Some not.
 
-	Route Information :
-	•	corridorID: Corridor ID / Route ID as key for route grouping.  
-	•	corridorName: Corridor Name / Route Name contains Start and Finish for each route.  
-	•	direction: 0 for Go, 1 for Back. Direction of the route.
+Customer Information :
+	payCardID: Customers main identifier. The card customers use as a ticket for entrance and exit.  
+	payCardBank: Customers card bank issuer name  
+	payCardName: Customers name that is embedded in the card.  
+	payCardSex: Customers sex that is embedded in the card  
+	payCardBirthDate: Customers birth year
 
-	Tap In Information :
-	•	tapInStops: Tap In (entrance) Stops ID for identifying stops name  
-	•	tapInStopsName: Tap In (entrance) Stops Name where customers tap in.  
-	•	tapInStopsLat: Latitude of Tap In Stops  
-	•	tapInStopsLon: Longitude of Tap In Stops  
-	•	stopStartSeq: Sequence of the stops, 1st stop, 2nd stops etc. Related to direction.  
-	•	tapInTime: Time of tap in. Date and time
+Route Information :
+	corridorID: Corridor ID / Route ID as key for route grouping.  
+	corridorName: Corridor Name / Route Name contains Start and Finish for each route.  
+	direction: 0 for Go, 1 for Back. Direction of the route.
 
-	Tap Out Information :
-	•	tapOutStops: Tap Out (Exit) Stops ID for identifying stops name  
-	•	tapOutStopsName: Tap out (exit) Stops Name where customers tap out.  
-	•	tapOutStopsLat: Latitude of Tap Out Stops  
-	•	tapOutStopsLon: Longitude of Tap Out Stops  
-	•	stopEndSeq: Sequence of the stops, 1st stop, 2nd stops etc. Related to direction.  
-	•	tapOutTime: Time of tap out. Date and time
+Tap In Information :
+	tapInStops: Tap In (entrance) Stops ID for identifying stops name  
+	tapInStopsName: Tap In (entrance) Stops Name where customers tap in.  
+	tapInStopsLat: Latitude of Tap In Stops  
+	tapInStopsLon: Longitude of Tap In Stops  
+	stopStartSeq: Sequence of the stops, 1st stop, 2nd stops etc. Related to direction.  
+	tapInTime: Time of tap in. Date and time
+
+Tap Out Information :
+	tapOutStops: Tap Out (Exit) Stops ID for identifying stops name  
+	tapOutStopsName: Tap out (exit) Stops Name where customers tap out.  
+	tapOutStopsLat: Latitude of Tap Out Stops  
+	tapOutStopsLon: Longitude of Tap Out Stops  
+	stopEndSeq: Sequence of the stops, 1st stop, 2nd stops etc. Related to direction.  
+	tapOutTime: Time of tap out. Date and time
 
 Data Preparation
 
@@ -86,16 +87,16 @@ The following actionable recommendations are proposed for Transjakarta’s publi
 
 For TransJakarta Public Relations:
 
-	•	Leverage Social Media for Awareness Campaigns
+Leverage Social Media for Awareness Campaigns
 Targeting Gen Z—who are highly active on social media and rely on it as a primary source of information, Transjakarta can run informative campaigns highlighting that it is a reliable and timely alternative for commuting to school.
-	•	Use Male Students in Visual Campaigns
+Use Male Students in Visual Campaigns
 To counter the perception that riding a private vehicle is a status symbol for "boys", to be specific is highschool boys since a massive declining of teenage boys at 16 years old from using Transjakarta. Visual content featuring male students commuting with Transjakarta can help normalize male students to use public transit as a practical, flexible, and efficient option.
-	•	Promote a Safe Environment for Female Passengers
+Promote a Safe Environment for Female Passengers
 Demographic data also shows that a higher female number of Teenager that using Transjakarta, which highlights the importance of ensuring a sense of safety for them.
 
 According to this report, cases of sexual harassment involving women, including underage girls, are often unreported due to various reasons. Therefore, further education and awareness efforts are needed. These can be carried out through social media campaigns and also through visible signs inside TransJakarta buses, encouraging passengers to speak up if they witness or experience sexual harassment.
 
-	•	Improve and Promote Complaint Mechanisms
+Improve and Promote Complaint Mechanisms
 While TransJakarta already has a complaint system via its app, it remains inefficient according to user feedback. The app needs significant improvement to provide fast, intuitive reporting—similar to those implemented in other developed countries.
 For Transjakarta’s marketing team:
 The JakCard or Jaklingko Card, which is the most widely used payment method among teenagers, should be made more appealing. One approach is to create collaborations with brands or public figures that are popular among the youth. This strategy has already been implemented by competing banks, showing its effectiveness in attracting the younger demographic.
