@@ -115,15 +115,20 @@ The dataset contains **37,900 rows and 22 columns**, categorized into several gr
 - **Improve and Promote Complaint Mechanisms**  
   Enhance the in-app complaint process for faster, more intuitive reporting, benchmarking against systems in developed countries.
 
+- **Focus on Non-Premium Routes**  
+  Since student ridership is concentrated in non-premium corridors, campaigns should be localized to these routes.
+
 **For Transjakarta Marketing Team:**
 - **Revamp JakCard/Jaklingko Appeal**  
   Introduce branding or limited-edition collaborations with influencers, artists, or brands popular with youth to make the cards more desirable.
 
-- **Focus on Non-Premium Routes**  
-  Since student ridership is concentrated in non-premium corridors, campaigns should be localized to these routes.
-
 ## References
 
-- Transjakarta internal dataset (April 2023)
-- Korps Lalu Lintas POLRI accident statistics
-- News reports regarding underage driving incidents in Jakarta
+- PT Transportasi Jakarta. (n.d.). Transjakarta. Retrieved April 17, 2025, from https://www.transjakarta.co.id/&#8203;:contentReference[oaicite:0]{index=0}
+- Jatim Newsroom. (2024, May 20). Potensi bonus demografi menyongsong Indonesia Emas 2045. Dinas Komunikasi dan Informatika Provinsi Jawa Timur. https://kominfo.jatimprov.go.id/berita/potensi-bonus-demografi-menyongsong-indonesia-emas-2045
+- Ridwansyah, A. (2023, September 15). Remaja bawa motor ke sekolah, rawan kecelakaan. KBR ID. https://kbr.id/berita/nasional/remaja-bawa-motor-ke-sekolah-rawan-kecelakaan
+- Amelia, M. (2025, March 11). Polisi: Siswa SMA yang bawa BMW tabrak pemotor tak punya SIM. Detik News. https://news.detik.com/berita/d-7817172/polisi-siswa-sma-yang-bawa-bmw-tabrak-pemotor-tak-punya-sim
+- Muhamad, N. (2024, February 9). Media sosial jadi sumber utama Gen Z dalam mengakses berita. Katadata. https://databoks.katadata.co.id/teknologi-telekomunikasi/statistik/cc9c63b6b015cc3/media-sosial-jadi-sumber-utama-gen-z-dalam-mengakses-berita
+- Radio Republik Indonesia. (2022, November 25). Alasan meningkatnya pelecehan di transportasi umum. RRI.co.id. https://rri.co.id/index.php/lain-lain/1232233/alasan-meningkatnya-pelecehan-di-transportasi-umum
+- PT. Transportasi Jakarta. (2025, March 7). TJ: Transjakarta (Version 2.3.0) [Mobile app]. Apple App Store. https://apps.apple.com/id/app/tj-transjakarta/id6502437836
+- Pasha, A. C. (2019, May 28). Keren, Jepang andalkan aplikasi ini untuk lawan pelecehan di tempat umum. Liputan6. https://www.liputan6.com/hot/read/3978243/keren-jepang-andalkan-aplikasi-ini-untuk-lawan-pelecehan-di-tempat-umum?page=2
